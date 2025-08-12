@@ -4,7 +4,7 @@ background-color: rgb(214, 248, 214);
 
 .container{
  max-width: 800px;
-marging: 0 auto;
+margin:0 auto;
 text-align: justify;
 padding: 20px;
 }
